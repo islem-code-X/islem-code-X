@@ -12,9 +12,7 @@
 - 🌐 Web Development
 - HTML
 - CSS
-- JavaScript
 - PHP
-- Laravel
 - Python
 - Git
 - GitHub
