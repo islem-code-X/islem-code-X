@@ -1,3 +1,3 @@
-## Hi, I'm Islam 👋
+# Hi, I'm Islam 👋
 
-# 💻 Web Developer & Aspiring Software Engineer
+## 💻 Web Developer & Aspiring Software Engineer
