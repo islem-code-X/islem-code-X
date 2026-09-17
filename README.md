@@ -4,10 +4,10 @@
 ## 👋 About Me
 
 💻 Web Developer passionate about building modern and useful websites.
-🚀 Currently learning PHP, Laravel, JavaScript, and Software Engineering.
+🚀 Currently learning PHP, and Software Engineering.
 🐍 I also enjoy Python, Git, GitHub, and turning ideas into real projects.
 
-### 🛠️ Skills & Technologies
+### -🛠️ Skills & Technologies
 
 - 🌐 Web Development
 - HTML
